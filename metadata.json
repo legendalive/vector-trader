@@ -1,0 +1,7 @@
+{
+  "name": "Vector Trader",
+  "description": "Modern automated MetaTrader execution frontend with real-time bridge status, risk parameters, live trade tracking, and Gemini AI trade overseer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
